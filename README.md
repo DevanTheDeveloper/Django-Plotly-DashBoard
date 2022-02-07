@@ -2,6 +2,12 @@
 Django/Plotly Integration
 
 
-#dependencies
- 
-pip install django plotly django_plotly_dash pandas numpy
+
+SETUP
+
+- pip install django plotly django_plotly_dash pandas numpy
+
+
+PURPOSE
+
+- Django/Plotly implementation. 
